@@ -1,0 +1,16 @@
+{
+  "name": "node-postgres",
+  "version": "1.0.0",
+  "description": "Connect Node and Express to PostGRES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devtools": "react-devtools"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.8.0"
+  }
+}
