@@ -8,6 +8,7 @@ The Node Server fetches stop words to be filtered from a remote database which y
 database = postgres/"any name of your choice"
 table_name = words
 table_columns = id, entry (varchar 40)
+
 If fetching stop words from a remote database seems too much of a hassle, they are available as a JSON in Word-List folder (listOfWords.json)
 
 To run the Node API server:
